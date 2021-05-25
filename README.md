@@ -17,22 +17,6 @@ Please bookmark these resources on the Microsoft 365 Adoption site. Sponsored by
 
 ***
 
-## Digital Events Overview
-Large events and conferences are still valuable for employee and external engagement, but the format has changed with COVID-19. Digital events in Microsoft Teams can be a single webinar, a large interactive meeting, an all-hands broadcast, or a multi-session, multi-track digital experience.  Microsoft Teams includes built-in capabilities for interactive meetings, large group meetings, and webinars. In this session we'll see how these capabilities come together with out-of-the-box Microsoft 365 solutions. 
-
-![A continuum of types of digital events](https://github.com/NickStillings/digitalevents/blob/main/Wiki%20Images/wiki.digitalevents.2.continuum.jpg)
-
-- **Meetings and Calls** - Personal, engaging interaction meeting virtually, face-to-face.
-- **Interactive Group Meetings** - Outcome-focused meetings to align on work, deliverables, status and next steps. Often scoped to a team, project, or specific stakeholders.
-- **Town Halls** - Large, communication-focused meetings for internal or external communications, typically with some form of attendee moderation and a very curated list of speakers and topics.
-- **Webinars** - External meetings with external participants, emphasizing attendance management and engagement, often with a specific call to action.
-- **Broadcast Events** - Content delivered as a scalable media stream to a very large digital audience, often leveraging professional production tools and roles on the event team.
-- **Virtual Conference** - Multi session, multi delivery channel event, often running over several days with a unifying theme and a complex planning and execution process.
-
-
-
-***
-
 
 ## Case Study: Microsoft MVP/RD Summit and Build
 
