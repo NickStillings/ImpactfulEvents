@@ -4,7 +4,7 @@
 
 ***
 
-## Adoption Resources for Digital Events
+## Adoption Resources for Impactful Events
 Please bookmark these resources on the Microsoft 365 Adoption site. Sponsored by the Microsoft Teams Customer Advocacy Group, these resources compliment our technical documentation with guidance and best practices for adoption and usage of Microsoft Teams. 
 
 **[Meetings and Webinars in Microsoft Teams](https://adoption.microsoft.com/meetings-and-webinars-in-microsoft-teams/) (Main Site)**
