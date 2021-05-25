@@ -1,8 +1,10 @@
-[Digital Events Overview](https://github.com/NickStillings/digitalevents/) | [Digital Event Planning](https://github.com/NickStillings/digitalevents/wiki/Digital-Event-Planning) | [Digital Event Venue](https://github.com/NickStillings/digitalevents/wiki/Digital-Event-Venue) | [Speaker Readiness](https://github.com/NickStillings/digitalevents/wiki/Speaker-Readiness) | [Webinars in Teams](https://github.com/NickStillings/digitalevents/wiki/Webinars-in-Teams) | [Town Halls](https://github.com/NickStillings/digitalevents/wiki/Town-Halls) | [M365 Live Events](https://github.com/NickStillings/digitalevents/wiki/M365-Live-Events) | [Digital Event Toolkit](https://github.com/NickStillings/digitalevents/tree/main/Digital%20Toolkit)
+[Event Resources](https://github.com/NickStillings/ImpactfulEvents) | [Event Planning](https://github.com/NickStillings/ImpactfulEvents/wiki/Event-Planning) | [Attendee Engagement](https://github.com/NickStillings/ImpactfulEvents/wiki/Engagement) | [Speaker Readiness](https://github.com/NickStillings/ImpactfulEvents/wiki/Speaker-Readiness) | [Town Halls](https://github.com/NickStillings/ImpactfulEvents/wiki/Town-Halls) | [Webinars in Teams](https://github.com/NickStillings/ImpactfulEvents/wiki/Webinars-in-Teams) | [M365 Live Events](https://github.com/NickStillings/ImpactfulEvents/wiki/M365-Live-Events) | [SharePoint Spaces](https://github.com/NickStillings/ImpactfulEvents/wiki/SharePoint-Spaces)
 ---|---|---|---|---|---|---|---
 
 
+
 ***
+
 
 ## Adoption Resources for Impactful Events
 Please bookmark these resources on the Microsoft 365 Adoption site. Sponsored by the Microsoft Teams Customer Advocacy Group, these resources compliment our technical documentation with guidance and best practices for adoption and usage of Microsoft Teams. 
