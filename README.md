@@ -8,6 +8,12 @@ Thank you for joining today! Pkease explore the links at the top of this page fo
 
 ![AoP Team](https://github.com/NickStillings/digitalevents/blob/main/Wiki%20Images/wiki.engagement.7.aop.jpg)
 
+A commonly discussed pain point of remote work is that it can feel more challenging or tiring than in-person collaboration. Researchers from our Human Factors Labs recently set out to understand this phenomenon. Do remote work and video meetings actually tax our brain more than in-person work? The brain science suggests, yes. 
+
+![AoP Brain](https://github.com/NickStillings/digitalevents/blob/main/Wiki%20Images/wiki.engagement.8.aopbrain.jpg)
+
+Read the full research report on the blog post [The future of work—the good, the challenging & the unknown.](https://www.microsoft.com/en-us/microsoft-365/blog/2020/07/08/future-work-good-challenging-unknown/)
+
 
 
 ***
