@@ -1,6 +1,13 @@
 [Event Resources](https://github.com/NickStillings/ImpactfulEvents) | [Event Planning](https://github.com/NickStillings/ImpactfulEvents/wiki/Event-Planning) | [Attendee Engagement](https://github.com/NickStillings/ImpactfulEvents/wiki/Engagement) | [Speaker Readiness](https://github.com/NickStillings/ImpactfulEvents/wiki/Speaker-Readiness) | [Town Halls](https://github.com/NickStillings/ImpactfulEvents/wiki/Town-Halls) | [Webinars in Teams](https://github.com/NickStillings/ImpactfulEvents/wiki/Webinars-in-Teams) | [M365 Live Events](https://github.com/NickStillings/ImpactfulEvents/wiki/M365-Live-Events) | [SharePoint Spaces](https://github.com/NickStillings/ImpactfulEvents/wiki/SharePoint-Spaces)
 ---|---|---|---|---|---|---|---
 
+***
+## Art of the Possible: Impactful Events
+
+Thank you for joining today! Pkease explore the links at the top of this page for more details, examples, and step-by-step guiadance on the solutions and best practices shown today.
+
+![AoP Team](https://github.com/NickStillings/digitalevents/blob/main/Wiki%20Images/wiki.engagement.7.aop.jpg)
+
 
 
 ***
