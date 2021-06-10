@@ -4,7 +4,7 @@
 ***
 ## Art of the Possible: Impactful Events
 
-Thank you for joining today! Pkease explore the links at the top of this page for more details, examples, and step-by-step guiadance on the solutions and best practices shown today.
+Thank you for joining today! Please  explore the links at the top of this page for more details, examples, and step-by-step guidance on the solutions and best practices shown today.
 
 ![AoP Team](https://github.com/NickStillings/digitalevents/blob/main/Wiki%20Images/wiki.engagement.7.aop.jpg)
 
