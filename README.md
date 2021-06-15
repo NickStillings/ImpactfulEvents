@@ -29,6 +29,18 @@ Please bookmark these resources on the Microsoft 365 Adoption site. Sponsored by
 
 **[Meetings and Virtual Event Tech Community ](https://techcommunity.microsoft.com/t5/virtual-events-and-webinars/bd-p/TeamsVirtualEvents) (Tech Community forum for IT Pros)**
 
+***
+## Webinar Wednesdays
+**https://aka.ms/webinarwednesday**
+
+Wednesdays 2:00 pm Eastern / 1:00 pm Central /  12:00 pm Mountain / 11:00 am
+Pacific (All Times US)
+
+Join Microsoft Customer Success Managers Nick Stillings and Nash Pherson for an interactive demonstration and discussion.  We'll answer questions on the new Microsoft Teams Meetings features coming to Teams this spring. We'll review large meeting capabilities, registration, host controls, content layout, new presenter capabilities, and share resources and next steps. Each week we'll also drill down into a special topic and go a little deeper into public events, employee town halls, and advanced event production. 
+
+![Webinar Wednesday](https://github.com/NickStillings/digitalevents/blob/main/Wiki%20Images/wiki.engagement.10.wwthumb.jpg "Webinar Wednesday")
+
+
 
 ***
 
