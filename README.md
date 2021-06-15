@@ -6,7 +6,7 @@
 
 Thank you for joining today! Please  explore the links at the top of this page for more details, examples, and step-by-step guidance on the solutions and best practices shown today.
 
-![AoP Team](https://github.com/NickStillings/digitalevents/blob/main/Wiki%20Images/wiki.engagement.9.gcc.jpg)
+![AoP Team](https://github.com/NickStillings/digitalevents/blob/main/Wiki%20Images/wiki.engagement.9.gcc2.jpg)
 
 A commonly discussed pain point of remote work is that it can feel more challenging or tiring than in-person collaboration. Researchers from our Human Factors Labs recently set out to understand this phenomenon. Do remote work and video meetings actually tax our brain more than in-person work? The brain science suggests, yes. 
 
